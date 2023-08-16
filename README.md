@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Safeguarded Elderly Mental Health Diagnosis with AI & Blockchain
 <p align="center">
   <img width="200" height="200" src="AllModels/imgs/logo.png"><br>
